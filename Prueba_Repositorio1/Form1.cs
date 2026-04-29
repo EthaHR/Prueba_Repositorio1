@@ -31,5 +31,10 @@ namespace Prueba_Repositorio1
         {
 
         }
+
+        private void checkedListBox1_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }
